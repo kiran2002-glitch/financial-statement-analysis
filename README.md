@@ -28,4 +28,4 @@ A structured financial analysis with calculations, findings, and recommendations
 This project will use illustrative sample financial data for learning purposes.
 
 ## Author
-MBA Student | Marketing & Finance
+Kiran Malviya | MBA Student | Marketing & Finance
